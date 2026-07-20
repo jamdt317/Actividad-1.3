@@ -1,1 +1,1 @@
-Hola Mundo - Característica B
+Hola Mundo - Funcionalidad A
